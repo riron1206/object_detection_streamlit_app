@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+pillow
+albumentations
+opencv-python-headless
+typing-extensions
+dataclasses
+ttach
+effdet
+https://download.pytorch.org/whl/cpu/torch-1.8.1%2Bcpu-cp39-cp39-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torchvision-0.9.1%2Bcpu-cp39-cp39-linux_x86_64.whl
